@@ -8,6 +8,11 @@
             "name":"analysis-plugin",
             "source":"../plugins/analysis-plugin",
             "description":"Researches information from online sources, and gathers it in a searchable knowledge base by topic."
+        },
+        {
+            "name":"planner",
+            "source":"../plugins/planner",
+            "description":"Assists in building plan files"
         }
 
     ]
