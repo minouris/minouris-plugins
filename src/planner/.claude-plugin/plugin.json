@@ -1,0 +1,8 @@
+{
+    "name":"planner",
+    "description":"Assists with building plan documents",
+    "version":"0.1.0",
+    "author": {
+        "name":"Ciara Norrish"
+    }
+}
