@@ -14,6 +14,5 @@
             "source":"./plugins/planner",
             "description":"Assists in building plan files"
         }
-
     ]
 }
